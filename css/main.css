@@ -1,0 +1,43 @@
+
+/*---------------- GENERAL ---------------*/
+ul{
+    list-style-type: none;
+}
+
+main section ul{
+    list-style-type: square;
+}
+
+
+/*----------------- ASIDE ---------------*/
+#img-perfil img{
+    border-radius: 50%;
+}
+
+aside {
+     background-color: #03588C;
+}
+
+aside *{
+    color: #E9E9E9;
+}
+
+aside h2{
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+aside section h2{
+    border-bottom: 2px solid #E9E9E9;
+}
+
+
+/*----------------- MAIN ---------------*/
+.hero{
+    background-color: #E9E9E9;
+    border-radius: 10px;
+}
+
+.hero p{
+    color: #03588C;
+}
